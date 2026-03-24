@@ -1,0 +1,4 @@
+Sample_ID,PPG,PPG_Mn,PPG_fn,MDI_urethane,BDO,CaCO3,DABCO,water,pMDI,TEP,cyclopentane
+S001,55,3000,3,40,5,0,0,0,0,0,0
+S002,50,3000,3,38,7,3,1,1,0,0,0
+S003,30,400,3,0,0,0,0,0,50,15,5
